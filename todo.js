@@ -34,7 +34,6 @@ for(i=0; i<10; i++){
     let a = 0;
 
     para2.innerHTML += `<h4>${resp[i].title.toUpperCase()}</h4>`;
-
    
 
 };
