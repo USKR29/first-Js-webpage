@@ -1,0 +1,18 @@
+*{
+margin: 0px;
+padding: 5px;
+box-sizing: border-box;
+}
+
+.header{
+    background-color: lightblue;
+    border-radius: 5px;
+}
+
+
+.title{
+    color: blue;
+    font-size: x-large;
+   
+}
+
