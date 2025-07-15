@@ -12,6 +12,7 @@ const para = document.querySelector('p');
 const para2 = document.querySelector('.status')
 
 
+
 toddo().then(resp => {
     console.log(resp)
     detailPage(resp);
